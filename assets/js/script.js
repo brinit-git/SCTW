@@ -1,6 +1,20 @@
 fetch('navbar.html')
     .then(res => res.text())
-    .then(data => document.getElementById('navbar').innerHTML = data);
+    .then(data => {
+        document.getElementById('navbar').innerHTML = data;
+        
+        // Close offcanvas when a link is clicked
+        const offcanvasLinks = document.querySelectorAll('#mobileMenu .nav-link');
+        offcanvasLinks.forEach(link => {
+            link.addEventListener('click', function() {
+                const offcanvasElement = document.getElementById('mobileMenu');
+                const offcanvasInstance = bootstrap.Offcanvas.getInstance(offcanvasElement);
+                if (offcanvasInstance) {
+                    offcanvasInstance.hide();
+                }
+            });
+        });
+    });
 
 fetch('footer.html')
     .then(res => res.text())

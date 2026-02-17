@@ -1,0 +1,20 @@
+# robots.txt for Second Choice Trivandrum - Used Car Dealership
+# Website: https://secondchoicetrivandrum.in
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow crawling of assets that don't need indexing
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+# Allow crawling of images for Google Image Search
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# Sitemap location
+Sitemap: https://secondchoicetrivandrum.in/sitemap.xml
+
+# Crawl-delay for polite crawling (optional)
+Crawl-delay: 1

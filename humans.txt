@@ -1,0 +1,40 @@
+/* TEAM */
+Owner: Prem Mohan
+Business: Second Choice Used Car Dealer
+Location: Edapazhanji, Thiruvananthapuram, Kerala 695010
+Contact: +91 97467 37222
+Email: trivandrumsecondchoice@gmail.com
+Website: https://secondchoicetrivandrum.in
+
+/* SITE */
+Last update: 2026/02/17
+Standards: HTML5, CSS3, JavaScript ES6
+Components: Bootstrap 5.3.3, GSAP, Swiper, Font Awesome
+Software: Visual Studio Code
+Language: English
+
+/* THANKS */
+Our valued customers who trust us with their car buying journey
+The team at Second Choice for their dedication and professionalism
+Our partners and suppliers who help us maintain quality standards
+
+/* ABOUT */
+Second Choice is Trivandrum's trusted used car dealership, offering:
+- Quality pre-owned vehicles from top brands
+- Rigorous inspection and quality assurance
+- Transparent pricing with no hidden fees
+- Customer-centric approach
+- 15+ years of experience
+- 250+ satisfied customers
+- 500+ successful deliveries
+
+Address: Kochar Rd, near Alakapuri Auditorium, Edapazhanji, Thiruvananthapuram, Kerala 695010
+Phone: 0471-6446555
+Mobile: +91 97467 37222
+
+Social Media:
+Facebook: https://www.facebook.com/SecondChoiceTVM
+Instagram: https://www.instagram.com/secondchoice_edapazhanji_tvm
+WhatsApp: https://api.whatsapp.com/send?phone=919746737222
+
+Google Rating: 4.6 ★★★★☆ (112 reviews)
